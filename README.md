@@ -1,5 +1,5 @@
 # Currency-Converter
-THE HTML, CSS and JS file will be as it is , only you have to create your own API-Key for the Real-time Processing.
+The HTML, CSS and JS file will be as it is , only you have to create your own API-Key for the Real-time Processing.<br>
 You can create you API key from the official ExchageRateAPI site for free : https://www.exchangerate-api.com/
 
 SAMPLE OUTPUT 
